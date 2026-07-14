@@ -1,4 +1,4 @@
-[
+
   {
     id: 1,
     name: 'Smart Watch Series X',
@@ -20,4 +20,3 @@
     price: '฿1,200',
     image: 'https://images.unsplash.com/photo-1525598912003-663126343e1f?q=80&w=200&auto=format&fit=crop',
   }
-]
